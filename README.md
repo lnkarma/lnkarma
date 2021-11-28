@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lnkarma
-- 👀 I’m interested in test
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in React js
+- 🌱 I’m currently learning Next js
+- 💞️ I’m looking to collaborate on any react project
+- 📫 How to reach me 
 
 <!---
 lnkarma/lnkarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
